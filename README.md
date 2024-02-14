@@ -1,8 +1,3 @@
-# ConnectionSAP
-How to connect SAP with Python
-<p>  <br>
-  </p>
-  
 # How to Connect SAP with Python 
 <p>  <br>
   </p>
