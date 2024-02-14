@@ -11,7 +11,7 @@
   
 # Índice
 - [**Option 1**](README.md#Option-1)
-- [**Option 2**](README.md#Option-1)
+- [**Option 2**](README.md#Option-2)
 <p>  <br>
   </p>
   
